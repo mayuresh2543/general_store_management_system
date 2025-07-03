@@ -1,0 +1,11 @@
+product_id,product_name,product_cat,product_subcat,stock,mrp,cost_price,vendor_phn
+20001,Tata Salt,Pantry,Essentials,300,20,16,
+20002,Aashirvaad Atta 5kg,Pantry,Essentials,150,260,220,
+20003,Fortune Sunflower Oil 1L,Pantry,Oil,200,130,110,
+20004,MDH Chana Masala,Pantry,Spices,120,55,45,
+20005,Surf Excel Detergent Powder,Household,Cleaning,180,105,90,
+20006,Parle-G Biscuits (Large Pack),Snacks,Biscuits,250,50,40,
+20007,Amul Butter 500g,Fridge,Dairy,100,265,230,
+20008,Haldiram’s Bhujia,Snacks,Namkeen,160,60,50,
+20009,Vim Dishwash Bar,Household,Cleaning,300,10,8,
+20010,Good Day Cashew Cookies,Snacks,Biscuits,140,30,25,
